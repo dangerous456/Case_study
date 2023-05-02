@@ -1,3 +1,3 @@
 # Step by step on how to run the script
-Download the source code from github
-Open the html file with google chrome
+1. Download the source code from github
+2. Open the html file with google chrome
